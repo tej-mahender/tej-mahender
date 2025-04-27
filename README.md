@@ -1,19 +1,34 @@
-<h1 align="center">Hi 👋, I'm Tej Mahendra</h1>
-<h3 align="center">A passionate Computer Science undergraduate</h3>
+<h1>Hi 👋, I'm Tej Mahendra</h1>
+<h3>About Me</h3>
+<p>
+  I'm a final-year Computer Science student passionate about solving problems, building impactful tech solutions, and exploring new technologies.  </p>
+  <p>
+  I specialize in full-stack development, backend systems, and database design, with a keen interest in AI and web development.  
+  I believe in learning by doing — whether leading tech communities or crafting real-world projects.  </p>
+  
+## Tech I’m Working With
+My experience spans full-stack development and academic projects, utilizing:
+- **Frontend:** React.js, HTML5, CSS3, Bootstrap, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, SQL
+- **Programming Languages:** C, C++, JavaScript
+- **Core Concepts:** Data Structures, Algorithms, OOP
+- **Tools:** Git, GitHub, Linux, VS Code, Postman
 
-- 🌱 I’m currently learning **Web Development**
-
-<h3 align="left">Connect with me:</h3>
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/tej-mahendra)
+- Reach me at: **reddytej15@gmail.com**
+  
+## Coding Profiles:
 <p align="left">
-<a href="https://www.linkedin.com/in/tej-mahendra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tej_mahendra" height="30" width="40" /></a>
-<h3 align="left">Coding Profiles:</h3>
-<a href="https://www.codechef.com/users/tej22501a05h9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tej22501a05h9" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tej_mahendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tej_mahendra" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/tej22501a05h9" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tej22501a05h9" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/tej_mahendra" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tej_mahendra" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tej-mahender&show_icons=true&locale=en&layout=compact" alt="tej-mahender" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tej-mahender&show_icons=true&locale=en&layout=compact" alt="tej-mahender" />
+</p>
