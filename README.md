@@ -16,8 +16,10 @@ My experience spans full-stack development and academic projects, utilizing:
 - **Tools:** Git, GitHub, Linux, VS Code, Postman
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/tej-mahendra)
 - Reach me at: **reddytej15@gmail.com**
+- <a href="https://www.linkedin.com/in/tej-mahendra/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tej_mahendra" height="30" width="40" />
+  </a>
   
 ## Coding Profiles:
 <p align="left">
