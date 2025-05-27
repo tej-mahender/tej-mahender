@@ -32,5 +32,5 @@ My experience spans full-stack development and academic projects, utilizing:
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tej-mahender&show_icons=true&locale=en&layout=compact" alt="tej-mahender" />
-</p>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tej-mahender&show_icons=true&locale=en&layout=compact" alt="tej-mahender" />
+</p> -->
