@@ -1,10 +1,8 @@
 <h1>Hi 👋, I'm Tej Mahendra</h1>
 
-<p align="center">
-<a href="[https://your-portfolio-link.com](https://tejmahendra.vercel.app/)" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-purple?style=for-the-badge&logo=google-chrome" /></a> 
-  <a href="[https://www.linkedin.com/in/vimalareddytummuru/](https://www.linkedin.com/in/tej-mahendra/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:reddytej15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-purple?style=for-the-badge&logo=vercel&logoColor=white)](https://tejmahendra.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tej-mahendra/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddytej15@gmail.com)
 
 ---
 <h3>About Me</h3>
