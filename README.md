@@ -1,4 +1,12 @@
 <h1>Hi 👋, I'm Tej Mahendra</h1>
+
+<p align="center">
+<a href="[https://your-portfolio-link.com](https://tejmahendra.vercel.app/)" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-purple?style=for-the-badge&logo=google-chrome" /></a> 
+  <a href="[https://www.linkedin.com/in/vimalareddytummuru/](https://www.linkedin.com/in/tej-mahendra/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:reddytej15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
 <h3>About Me</h3>
 <p>
   I'm a final-year Computer Science student passionate about solving problems, building impactful tech solutions, and exploring new technologies.  </p>
@@ -14,12 +22,6 @@ My experience spans full-stack development and academic projects, utilizing:
 - **Programming Languages:** C, C++, JavaScript
 - **Core Concepts:** Data Structures, Algorithms, OOP
 - **Tools:** Git, GitHub, Linux, VS Code, Postman
-
-## Connect with Me
-- Reach me at: **reddytej15@gmail.com**
-- <a href="https://www.linkedin.com/in/tej-mahendra/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tej_mahendra" height="30" width="40" />
-  </a>
   
 ## Coding Profiles:
 <p align="left">
@@ -31,6 +33,6 @@ My experience spans full-stack development and academic projects, utilizing:
   </a>
 </p>
 
-<p>
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tej-mahender&show_icons=true&locale=en&layout=compact" alt="tej-mahender" />
-</p> -->
+<!-- <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tej-mahender&show_icons=true&locale=en&layout=compact" alt="tej-mahender" />
+</p>  !-->
